@@ -1,0 +1,10 @@
+# Eclipse IDE: Archivos de configuracion
+.classpath
+.project
+.settings/
+ 
+# Maven: Archivos compilados
+target/
+ 
+# Netbeans: Archivos de configuracion
+nbactions.xml
